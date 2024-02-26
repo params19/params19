@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Param Sriavstava</h1>
+<h1 align="center">Hi 👋, I'm Param Srivastava</h1>
 <h3 align="center">A passionate Android Developer and Competetive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=params19&label=Profile%20views&color=0e75b6&style=flat" alt="params19" /> </p>
