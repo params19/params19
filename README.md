@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Param Srivastava</h1>
-<h3 align="center">A passionate Android Developer and Competetive Programmer</h3>
-
+<h3 align="center">Android Developer & Competetive Programmer</h3>
+<img align="right" alt="coding"width="400" src="![image](https://github.com/params19/params19/assets/144816241/540ed7ad-f66c-4f0d-bc58-eb638b3c4e6a)
+">
 - 🔭 I’m currently working on **Edumarshal**
 
 - 🌱 I’m currently learning **Firebase**
