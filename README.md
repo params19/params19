@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Param Srivastava</h1>
 <h3 align="center">A passionate Android Developer and Competetive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=params19&label=Profile%20views&color=0e75b6&style=flat" alt="params19" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=params19" alt="params19" /></a> </p>
-
 - 🔭 I’m currently working on **Edumarshal**
 
 - 🌱 I’m currently learning **Firebase**
