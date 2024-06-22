@@ -1,27 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    @keyframes slideIn {
-      from {
-        transform: translateX(-100%);
-        opacity: 0;
-      }
-      to {
-        transform: translateX(0);
-        opacity: 1;
-      }
-    }
-
-    .animated-name {
-      display: inline-block;
-      animation: slideIn 2s ease-out;
-    }
-  </style>
-</head>
-<body>
-
-<h1 align="center">Hi 👋, I'm <span class="animated-name">Param Srivastava</span></h1>
+<h1 align="center">Hi 👋, I'm <span>
+  <svg width="260px" height="60px" viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" fill="none" stroke="#000" stroke-width="2" font-size="36" text-anchor="middle" alignment-baseline="middle" font-family="Arial, sans-serif">
+      <tspan dy="-0.2em">Param Srivastava</tspan>
+      <animate attributeName="stroke-dasharray" from="0,200" to="300,0" begin="0s" dur="2s" fill="freeze" />
+    </text>
+  </svg>
+</span></h1>
 <h3 align="center">App Developer & Competitive Programmer</h3>
 <img align="right" alt="coding" width="350" height="170" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
@@ -53,6 +37,3 @@
 [![](https://visitcount.itsvg.in/api?id=params19&icon=3&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-</body>
-</html>
